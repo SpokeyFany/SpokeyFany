@@ -23,4 +23,4 @@
 </div>
 
 <div align="center">
-<img width="150" height="119" alt="efjezw" src="https://github.com/user-attachments/assets/d3461d99-df04-40ac-98ae-e419182104b5" />
+<img width="150" height="119" alt="efjezw" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x0Zm5ndDlpMXkzYTdvd254NnJ5b2cwaHp6aG9sc3hwbGxodTJraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/L3iTSEhSjLpS8VUt2P/giphy.gif" />
