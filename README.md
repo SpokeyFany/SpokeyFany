@@ -24,3 +24,7 @@
 
 <div align="center">
 <img width="150" height="119" alt="efjezw" src="https://media1.tenor.com/m/ojCB2CZtgSMAAAAC/spoke-spokeishere.gif" />
+
+
+<div align="right">
+<img wdith="300" height="200" alt="efjezw" src="https://media1.tenor.com/m/Ec-KRAM8SiIAAAAC/spoke-spokeishere.gif" />
