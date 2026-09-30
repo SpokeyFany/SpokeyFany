@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Rayishere~🪽&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<div align="left">
+<div align="center">
 <img wdith="800" height="800" alt="efjezw" src="https://media1.tenor.com/m/Ec-KRAM8SiIAAAAC/spoke-spokeishere.gif" />
 
 ₊˚⊹ **[spokemaxxing]** ⊹˚₊
