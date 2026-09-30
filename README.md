@@ -18,6 +18,7 @@
 <img wdith="500" height="500" alt="efjezw" src="https://media1.tenor.com/m/Ec-KRAM8SiIAAAAC/spoke-spokeishere.gif" />
 
 
+
 > *" Im the director, I direct things... "*
 
 <br>
@@ -27,4 +28,4 @@
 </div>
 
 <div align="center">
-<img width="150" height="119" alt="efjezw" src="https://media1.tenor.com/m/ojCB2CZtgSMAAAAC/spoke-spokeishere.gif" />
+<img width="150" height="120" alt="efjezw" src="https://media1.tenor.com/m/ojCB2CZtgSMAAAAC/spoke-spokeishere.gif" />
